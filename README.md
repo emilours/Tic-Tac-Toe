@@ -5,7 +5,9 @@ Welcome to this Python-based Tic-Tac-Toe game using Tkinter! 🐍✨ This projec
 
 The board is displayed in a graphical window using the Tkinter library, a standard Python module for building GUI applications. 🖥️
 
-![Welcome](assets/playing.gif)
+<p align="center">
+  <img src="assets/playing.gif" alt="Welcome" width="500" />
+</p>
 
 ## Game Features 🌟
 - Two-player gameplay: Players take turns marking X and O on the grid. 🤠❌
